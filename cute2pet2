@@ -1,0 +1,46 @@
+[
+  {
+    "id": "BX001",
+    "name": "Bichon Frise (Imported Line)",
+    "stock": 3,
+    "stock_text": "3 ready to go",
+    "category": "Dog",
+    "location_count": 2,
+    "location_text": "Bangkok Import Farm",
+    "badge_status": "Low in stock",
+    "image_url": "https://i.pinimg.com/1200x/58/46/75/5846750b9a1d6934910d188b0370be03.jpg"
+  },
+  {
+    "id": "SX002",
+    "name": "Samoyed (Champion Breed)",
+    "stock": 8,
+    "stock_text": "8 ready to go",
+    "category": "Dog",
+    "location_count": 1,
+    "location_text": "Central Region Export Hub",
+    "badge_status": "Available",
+    "image_url": "https://i.pinimg.com/1200x/67/33/9d/67339db99cb7fa25ba67537b47c67336.jpg"
+  },
+  {
+    "id": "MC003",
+    "name": "Maincoon (Chubby Cheek)",
+    "stock": 2,
+    "stock_text": "2 ready to go",
+    "category": "Cat",
+    "location_count": 1,
+    "location_text": "Central Region Export Hub",
+    "badge_status": "Low in stock",
+    "image_url": "https://i.pinimg.com/736x/a5/9a/b8/a59ab8a3456a1b696ad292f4b12e4bd9.jpg"
+  },
+  {
+    "id": "RC004",
+    "name": "Ragdoll (Blue Eyes Premium)",
+    "stock": 12,
+    "stock_text": "12 ready to go",
+    "category": "Cat",
+    "location_count": 3,
+    "location_text": "Suvarnabhumi Airport Cargo Hub",
+    "badge_status": "Available",
+    "image_url": "https://i.pinimg.com/736x/83/a7/e3/83a7e3932a2d0820443807f9d00005ed.jpg"
+  }
+]
